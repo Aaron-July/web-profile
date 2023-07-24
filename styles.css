@@ -51,12 +51,13 @@ body {
 .profile-card .profile-pic {
     margin-top: 15px;
     overflow: hidden;
-    height: 300px;
-    width: 300px;
+   
 }
 
 .profile-card .profile-pic img {
-    border-radius: 10px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
 }
 
 .profile-card .profile-details {
